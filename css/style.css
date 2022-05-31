@@ -87,7 +87,7 @@ button {
 }
 
 
-@media (max-width: 400px) {
+@media (max-width: 500px) {
     .main {
         min-width: 350px;
         margin: 0 auto 0 auto;
